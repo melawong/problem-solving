@@ -1,4 +1,4 @@
-def maxArea(height):
+def max_area(height):
     max_area = 0
     start = 0
     end = len(height) - 1
